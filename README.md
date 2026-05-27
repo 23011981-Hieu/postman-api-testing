@@ -1,2 +1,107 @@
-# postman-api-testing
-Bai tap Postman API
+# BÀI TẬP POSTMAN API TESTING
+
+## Thông tin sinh viên
+
+Họ tên: Nguyễn Trung Hiếu
+lab-7: API Testing
+Công cụ: Postman Web
+
+# Giới thiệu
+
+Bài tập thực hành kiểm thử API bằng Postman.
+
+Sử dụng API miễn phí:
+
+https://jsonplaceholder.typicode.com/
+
+# 1. Test API GET
+
+## Lấy danh sách bài viết
+
+Endpoint:
+```text
+GET https://jsonplaceholder.typicode.com/posts
+```
+Kết quả:
+
+![GET](images/get-posts.png)
+
+# 2. Test API GET By ID
+
+Endpoint:
+
+```text
+GET https://jsonplaceholder.typicode.com/posts/1
+```
+
+Kết quả:
+
+![GET ID](images/get-by-id.png)
+
+# 3. Test API POST
+
+Endpoint:
+
+```text
+POST https://jsonplaceholder.typicode.com/posts
+```
+
+Body:
+
+```json
+{
+  "title": "Bai tap Postman",
+  "body": "Hoc API testing",
+  "userId": 1
+}
+```
+
+Kết quả:
+
+![POST](images/post-request.png)
+
+# 4. Test API PUT
+
+Endpoint:
+
+```text
+PUT https://jsonplaceholder.typicode.com/posts/1
+```
+
+Kết quả:
+
+![PUT](images/put-request.png)
+
+# 5. Test API DELETE
+
+Endpoint:
+
+```text
+DELETE https://jsonplaceholder.typicode.com/posts/1
+```
+
+Kết quả:
+
+![DELETE](images/delete-request.png)
+
+# 6. Collection trong Postman
+
+![COLLECTION](images/collection.png)
+
+# 7. Export Collection JSON
+
+File:
+
+```text
+Postman Lab.postman_collection.json
+```
+
+# 8. GitHub Repository
+
+![GITHUB](images/github.png)
+
+# Kết luận
+- Hiểu cách sử dụng Postman Web
+- Biết test API bằng GET, POST, PUT, DELETE
+- Biết export collection
+- Biết upload GitHub
