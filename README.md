@@ -82,7 +82,7 @@ DELETE https://jsonplaceholder.typicode.com/posts/1
 
 Kết quả:
 
-![DELETE](images/delete-request.png)
+![DELETE](images/delete-request.PNG)
 
 # 6. Collection trong Postman
 
