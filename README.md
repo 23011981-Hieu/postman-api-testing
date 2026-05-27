@@ -24,7 +24,7 @@ GET https://jsonplaceholder.typicode.com/posts
 ```
 Kết quả:
 
-![GET](images/get-posts.png)
+![GET](images/get-posts.PNG)
 
 # 2. Test API GET By ID
 
@@ -36,7 +36,7 @@ GET https://jsonplaceholder.typicode.com/posts/1
 
 Kết quả:
 
-![GET ID](images/get-by-id.png)
+![GET ID](images/get-by-id.PNG)
 
 # 3. Test API POST
 
@@ -58,7 +58,7 @@ Body:
 
 Kết quả:
 
-![POST](images/post-request.png)
+![POST](images/post-request.PNG)
 
 # 4. Test API PUT
 
@@ -70,7 +70,7 @@ PUT https://jsonplaceholder.typicode.com/posts/1
 
 Kết quả:
 
-![PUT](images/put-request.png)
+![PUT](images/put-request.PNG)
 
 # 5. Test API DELETE
 
@@ -86,7 +86,7 @@ Kết quả:
 
 # 6. Collection trong Postman
 
-![COLLECTION](images/collection.png)
+![COLLECTION](images/collection.PNG)
 
 # 7. Export Collection JSON
 
@@ -98,7 +98,7 @@ Postman Lab.postman_collection.json
 
 # 8. GitHub Repository
 
-![GITHUB](images/github.png)
+![GITHUB](images/github.PNG)
 
 # Kết luận
 - Hiểu cách sử dụng Postman Web
