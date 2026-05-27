@@ -2,9 +2,9 @@
 
 ## Thông tin sinh viên
 
-Họ tên: Nguyễn Trung Hiếu
-lab-7: API Testing
-Công cụ: Postman Web
+Họ tên: Nguyễn Trung Hiếu,
+lab-7: API Testing,
+công cụ: Postman.
 
 # Giới thiệu
 
@@ -95,10 +95,6 @@ File:
 ```text
 Postman Lab.postman_collection.json
 ```
-
-# 8. GitHub Repository
-
-![GITHUB](images/github.PNG)
 
 # Kết luận
 - Hiểu cách sử dụng Postman Web
